@@ -15,6 +15,12 @@ Las teconologías que conozco:
 - Sql
 - NoSql (MongoDb)
 
+Profundizando y aprendiendo:
+
+- VueJS
+- Desarrollo Blockchain
+- SpringBoot y SpringSecurity
+
 ## Contacto:
 
 [![Email](https://img.shields.io/badge/lkwakiglesia@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:lkwakiglesia@gmail.com)
