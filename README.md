@@ -12,7 +12,7 @@ Las teconologías que conozco:
 - JavaScript - TypeScript
 - Frameworks JS: Vue
 - Java
-- Frameworks Java: SpringBoot(REST, JPA)
+- Framework Java: Spring => SpringBoot, SpringWeb, SpringDataJpa
 - Flutter
 - Sql
 - NoSql (MongoDb)
@@ -21,7 +21,7 @@ Profundizando y aprendiendo:
 
 - VueJS
 - Desarrollo Blockchain
-- SpringBoot y SpringSecurity
+- SpringSecurity
 
 ## Contacto:
 
