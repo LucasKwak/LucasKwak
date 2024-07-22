@@ -9,8 +9,10 @@ Las teconologías que conozco:
 
 - Html
 - Css
-- JavaScript
-- Java (SpringBoot, Jdbc y JPA)
+- JavaScript - TypeScript
+- Frameworks JS: Vue
+- Java
+- Frameworks Java: SpringBoot(REST, JPA)
 - Flutter
 - Sql
 - NoSql (MongoDb)
