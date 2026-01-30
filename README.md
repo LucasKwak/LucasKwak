@@ -1,9 +1,7 @@
 # Hola, soy Lucas Kwak 😎
-### Estudiante de Ingeniería Informática
+### Ingeniero de software
 
-Soy un estudiante de la Facultad de Informática de La Coruña entusiasmado por el desarrollo de software.
-
-Empecé la carrera en el 2021 y estoy en mi último curso. En este tiempo he obtenido conocimientos en el diseño e implementación de software, en lo referente a la gestión y planificación de proyectos y en el cumplimiento de la calidad.
+Recién graduado en Ingeniería Informática y entusiasmado del desarrollo backend y gestión de bases de datos. Creador de la nueva red social [eniPlan](https://eniplan.es) para hacer planes y conocer a gente nueva 🕺🏼 ✈️ ⚽️.
 
 Las teconologías que conozco:
 
@@ -16,10 +14,6 @@ Las teconologías que conozco:
 - Flutter
 - Sql
 - NoSql (MongoDb)
-
-Aprendiendo:
-
-- Desarrollo Blockchain
 
 ## Contacto:
 
